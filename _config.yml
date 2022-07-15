@@ -20,8 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://nayeawon.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://nayeawon.github.io
 
 permalink: /:title/
 
@@ -39,7 +38,7 @@ twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
-email: myemail@gmail.com
+email: yea1189@gmail.com
 
 authors:
   johndoe:
