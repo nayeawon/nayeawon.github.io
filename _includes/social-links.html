@@ -32,8 +32,6 @@
     {% endif %}
 
     {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
-            <i class="fa-regular fa-envelope"></i>
-        </a>
+        {% include callout.html content="yea1189@gmail.com" type="info" %}
     {% endif %}
 </div>
