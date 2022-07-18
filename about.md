@@ -45,4 +45,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </ul>
 
 <h2>Calendar</h2>
-{% include calander.html %}
+{% include calendar.html %}
