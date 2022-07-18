@@ -32,8 +32,6 @@
     {% endif %}
 
     {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
-            <i class="fa-regular fa-envelope"></i>
-        </a>
+        {% include alerts/danger.html content="**Here be dragons**<br/>I'm going to let you into a secret..." %}
     {% endif %}
 </div>
