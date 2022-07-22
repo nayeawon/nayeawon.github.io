@@ -1,7 +1,7 @@
 ---
 title: "Machine learning"
 layout: post
-date: 2022-Summer
+date: 2022-06-20 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
