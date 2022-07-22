@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Machine learning"
 layout: post
-date: 2016-02-24 22:48
+date: 2022-Summer
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -18,11 +18,18 @@ description: Markdown summary with different options
 You can pick as item to see how to apply in markdown.
 
 #### Especial Elements
+- [Summary:](#summary)
+    - [Especial Elements](#especial-elements)
+    - [External Elements](#external-elements)
 - [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
+- [Side-by-side](#side-by-side)
 - [Star](#star)
 - [Especial Breaker](#especial-breaker)
 - [Spoiler](#spoiler)
+- [Gist](#gist)
+- [Codepen](#codepen)
+- [Slideshare](#slideshare)
+- [Videos](#videos)
 
 #### External Elements
 - [Gist](#gist)
